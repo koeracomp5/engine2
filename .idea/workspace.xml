@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb2dfdbc-0fcb-4326-930c-5da4fa5b2ef9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1Wi2OViFbBh53sshEBMZbsjcBVo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="engine" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb2dfdbc-0fcb-4326-930c-5da4fa5b2ef9" name="Default Changelist" comment="" />
+      <created>1579618062529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579618062529</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1453" y="721" key="FileChooserDialogImpl" timestamp="1579618375617">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state x="1453" y="721" key="FileChooserDialogImpl/-2160.0.1728.3032/0.0.3072.1688@0.0.3072.1688" timestamp="1579618375617" />
+    <state x="1554" y="856" width="261" height="217" key="Github.ShareDialog" timestamp="1579618247520">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state x="1554" y="856" width="261" height="217" key="Github.ShareDialog/-2160.0.1728.3032/0.0.3072.1688@0.0.3072.1688" timestamp="1579618247520" />
+    <state x="1182" y="608" key="SettingsEditor" timestamp="1579618379251">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state x="1182" y="608" key="SettingsEditor/-2160.0.1728.3032/0.0.3072.1688@0.0.3072.1688" timestamp="1579618379251" />
+    <state x="1266" y="699" key="Vcs.Push.Dialog.v2" timestamp="1579618388889">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state x="1266" y="699" key="Vcs.Push.Dialog.v2/-2160.0.1728.3032/0.0.3072.1688@0.0.3072.1688" timestamp="1579618388889" />
+    <state x="875" y="585" width="1596" height="760" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1579618279737">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state x="875" y="585" width="1596" height="760" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-2160.0.1728.3032/0.0.3072.1688@0.0.3072.1688" timestamp="1579618279737" />
+    <state x="1475" y="883" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579618461093">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state x="1475" y="883" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-2160.0.1728.3032/0.0.3072.1688@0.0.3072.1688" timestamp="1579618461093" />
+  </component>
+</project>
